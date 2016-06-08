@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:02:07.306989
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:38
 #+TITLE: 勝鬘經疏義私鈔
 #+PROPERTY: CBETA_ID X19n0353
 #+PROPERTY: ID KR6f0059

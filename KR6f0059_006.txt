@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:02:07.436473
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:38
 #+TITLE: 勝鬘經疏義私鈔
 #+PROPERTY: CBETA_ID X19n0353
 #+PROPERTY: ID KR6f0059
@@ -573,7 +573,7 @@
 教也。】¶
 ¶
 勝鬘經疏義私鈔卷之六(終)
-No.353-A¶
+* No.353-A¶
 
 謹寄入　勝鬘疏鈔一本。¶
 
